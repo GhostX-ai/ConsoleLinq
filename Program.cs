@@ -24,6 +24,12 @@ namespace ConsoleLinq
             {
                 Console.Write(x + " ");
             }
+            int[] unique = { 0, 0, 0, 0, 0, 1, 0, 0, 0, 0 };
+            var Uniqlist = unique.GroupBy(z => z).Where(z => z.ToList().Count == 1).Select(z=>z.Key);
+            foreach(var x in Uniqlist)
+            {
+                Console.Write("\n"+x);
+            }
             Console.ReadKey();
         }
     }
