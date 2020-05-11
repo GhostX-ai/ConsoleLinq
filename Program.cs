@@ -18,6 +18,12 @@ namespace ConsoleLinq
             int nossum = nums.Where(n => n < 0).Sum();
             Console.WriteLine("+ " + possum);
             Console.WriteLine("+ " + nossum);
+            string[] names = { "Aziz", "Amin", "Firdavs", "Shahzod", "Karim", "Akmal" };
+            names = names.OrderBy(n => n.Length).ToArray();
+            foreach (var x in names)
+            {
+                Console.Write(x + " ");
+            }
             Console.ReadKey();
         }
     }
