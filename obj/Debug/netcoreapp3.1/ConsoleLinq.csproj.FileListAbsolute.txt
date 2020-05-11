@@ -1,0 +1,13 @@
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\bin\Debug\netcoreapp3.1\ConsoleLinq.exe
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\bin\Debug\netcoreapp3.1\ConsoleLinq.deps.json
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\bin\Debug\netcoreapp3.1\ConsoleLinq.runtimeconfig.json
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\bin\Debug\netcoreapp3.1\ConsoleLinq.runtimeconfig.dev.json
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\bin\Debug\netcoreapp3.1\ConsoleLinq.dll
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\bin\Debug\netcoreapp3.1\ConsoleLinq.pdb
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\obj\Debug\netcoreapp3.1\ConsoleLinq.csprojAssemblyReference.cache
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\obj\Debug\netcoreapp3.1\ConsoleLinq.csproj.CoreCompileInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\obj\Debug\netcoreapp3.1\ConsoleLinq.AssemblyInfoInputs.cache
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\obj\Debug\netcoreapp3.1\ConsoleLinq.AssemblyInfo.cs
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\obj\Debug\netcoreapp3.1\ConsoleLinq.dll
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\obj\Debug\netcoreapp3.1\ConsoleLinq.pdb
+C:\Users\GhostX\Desktop\c#Projects\ConsoleLinq\obj\Debug\netcoreapp3.1\ConsoleLinq.genruntimeconfig.cache
