@@ -13,6 +13,11 @@ namespace ConsoleLinq
             {
                 Console.WriteLine(x);
             }
+            int[] nums = { 1, 2, 6, 7, 5, 1, -2, -3, -2, -1 };
+            int possum = nums.Where(n => n > 0).Sum();
+            int nossum = nums.Where(n => n < 0).Sum();
+            Console.WriteLine("+ " + possum);
+            Console.WriteLine("+ " + nossum);
             Console.ReadKey();
         }
     }
